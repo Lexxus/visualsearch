@@ -1,3 +1,7 @@
+## 0.6.9
+
+- Add support AMD and CommonJS.
+
 ## 0.6.8
 
 - Added option .matchAny for facetMatches callback to search not only from beginning
